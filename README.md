@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm SmAshraful! 👋
 
-<!--
-**SmAshraful/SmAshraful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **full-stack developer** with expertise in **Next.js, React.js, and Node.js**. I love building scalable web applications and working on **blockchain, smart contracts, and e-commerce solutions**.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, Rust (learning)
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js, NestJS
+- **Database:** MongoDB, PostgreSQL, MySQL
+- **DevOps & Cloud:** Docker, CI/CD, AWS, Firebase
+- **Other Tools:** Git, WebSockets, TMI.js, OAuth, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- **[SundarbanHoneyBD.com](https://sundarbanhoneybd.com/)** – E-commerce platform with subscription-based orders
+- **Twitch Chatbot** – Real-time feedback system for streamers using TMI.js
+- **Product Management System** – Advanced filtering, pagination, and offer-based products
+
+## 📫 Connect With Me
+- **Email:** ashraful@example.com
+- **GitHub:** [github.com/SmAshraful](https://github.com/SmAshraful)
+- **LinkedIn:** [linkedin.com/in/smashraful](https://linkedin.com/in/smashraful)
+
+### Thanks for visiting my profile! 🚀 Let's build something amazing together! 😊
