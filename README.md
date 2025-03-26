@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 <br />
-<picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3azNzNzl6dXlxb241dXpkZXlldnc2ZG5oZTJyMG44eWhwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width=250px></picture>
+<picture> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3azNzNzl6dXlxb241dXpkZXlldnc2ZG5oZTJyMG44eWhwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width=250px></picture>
 ## 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, Rust (learning)
 - **Frontend:** React.js, Next.js, Redux, Tailwind CSS
