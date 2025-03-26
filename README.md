@@ -7,8 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SmAshraful&label=Profile%20views&color=FF6500&style=flat" alt="smashraful" /> </p>
 
 ## 🚀 About Me
-I'm a passionate **full-stack developer** with expertise in **Next.js, React.js, and Node.js**. I love building scalable web applications and working on **blockchain, smart contracts, and e-commerce solutions**.
-
+<br />
+<picture> <img align="right" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3azNzNzl6dXlxb241dXpkZXlldnc2ZG5oZTJyMG44eWhwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width=250px></picture>
 ## 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, Rust (learning)
 - **Frontend:** React.js, Next.js, Redux, Tailwind CSS
