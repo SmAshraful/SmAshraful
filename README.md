@@ -1,7 +1,6 @@
 ![portfolio](https://github.com/user-attachments/assets/b7e4f1f0-fe5a-4756-b51f-c41ca7b3c3e6)
 
-[//]: # ( <h1 align="center">Hi 👋, I'm Sm Ashraful</h1>)
-[//]: # (<h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&weight=600&size=24&pause=1000&color=FF6500&width=435&lines=Hi+there+%E2%98%BA%EF%B8%8F%2C+It's+me+Sm+Ashraful.;%F0%9F%9A%80+Tech+Innovator%2C+Team+Leader%2C+Problem+Solver.;%F0%9F%94%A5+Turning+challenges+into+solutions%2C+one+line+of+code+at+a+time.;%F0%9F%92%A1+Building+software%2C+leading+teams%2C+and+shaping+the+future.;%E2%9A%A1+Code%2C+Lead%2C+Inspire+%E2%80%93+Repeat.;%F0%9F%8E%AF+From+ideas+to+execution%2C+I+make+things+happen." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SmAshraful&label=Profile%20views&color=FF6500&style=flat" alt="smashraful" /> </p>
 
