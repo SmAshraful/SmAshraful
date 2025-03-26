@@ -1,5 +1,8 @@
 ![portfolio](https://github.com/user-attachments/assets/b7e4f1f0-fe5a-4756-b51f-c41ca7b3c3e6)
 
+[//]: # ( <h1 align="center">Hi 👋, I'm Sm Ashraful</h1>)
+[//]: # (<h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>)
+
 # Hi there, I'm SmAshraful! 👋
 
 ## 🚀 About Me
