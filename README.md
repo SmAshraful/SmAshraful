@@ -6,12 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SmAshraful&label=Profile%20views&color=FF6500&style=flat" alt="smashraful" /> </p>
 
-
 ## 📫 Connect With Me
 - **Email:** sdsmash95@email.com
 - **GitHub:** [github.com/SmAshraful](https://github.com/SmAshraful)
 - **LinkedIn:** [linkedin.com/in/smashraful](https://linkedin.com/in/smashraful)
-
-  ![portfolio](https://github.com/user-attachments/assets/b7e4f1f0-fe5a-4756-b51f-c41ca7b3c3e6)
-
+- 
 ### Thanks for visiting my profile! 🚀 Let's build something amazing together! 😊
